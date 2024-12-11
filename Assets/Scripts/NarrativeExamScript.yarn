@@ -5,11 +5,16 @@ Pontiff Celestine: In the Holy year of our Lord 12XX, otherworldly darkness has 
 
 Pontiff Celestine: Dark clouds roiled above as the sun set, and as the midnight hour creeps close, three Vampires descend unto the weary city, while four soldiers of my Holy Guard usher five holy cardinals through the streets towards Verona Cathedral.
 
-Manicus: "Swiftly, men, this way!"
+-> Manicus: "Swiftly, men, this way!"
+    <<jump One>>
 
-Narrator: The men ducked into an alley, Manicus and Priore in front, Lando and Salvius covering the rear, with the Cardinals in between. Suddenly, three hooded figures step in the way of the exit, cutting the men off. 
+Pontiff Celestine: The men ducked into an alley, Manicus and Priore in front, Lando and Salvius covering the rear, with the Cardinals in between. Suddenly, three hooded figures step in the way of the exit, cutting the men off. 
 
-Ida: Mmh, what are such fine men like yourselves doing in a place like this?
+Ida: "Mmh, what are fine men like yourselves doing in a place like this?"
 
-Manicus: I-it's them... 
+===
+title: One
+position: 0,200
+---
+queer fag
 ===
